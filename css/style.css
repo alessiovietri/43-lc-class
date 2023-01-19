@@ -1,0 +1,31 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* REGOLE GENERALI */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    /* max-width: ?; */
+    /* margin: ?; */
+}
+
+/* HEADER */
+header {
+
+}
+
+/* MAIN */
+main {
+    
+}
+
+/* FOOTER */
+footer {
+    
+}
